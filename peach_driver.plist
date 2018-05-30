@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://47.100.162.124/download/PeachUser.ipa</string>
+					<string>http://47.100.162.124/download/PeachDriver.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://47.100.162.124/download/user_icon_57.png</string>
+					<string>http://47.100.162.124/download/driver_icon_57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://47.100.162.124/download/user_icon_512.png</string>
+					<string>http://47.100.162.124/download/driver_icon_512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ruiyan.mitaodaijia</string>
+				<string>com.ruiyan.mitaosiji</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>蜜桃代驾</string>
+				<string>蜜桃司机</string>
 			</dict>
 		</dict>
 	</array>
